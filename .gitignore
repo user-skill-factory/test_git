@@ -1,3 +1,6 @@
 main
 test_git
 .vscode/tasks.json
+/.vs/tmp/FileContentIndex
+/.vs
+/ConsoleApplication1
